@@ -1,0 +1,73 @@
+{
+    "heroes": [
+        {
+            "name": "Ana",
+            "role": "Support",
+            "emotes": "💉🔫👵🏾",
+            "quotes": [
+                "Need someone to tuck you in?",
+                "Mother knows best",
+                "You're powered up, get in there!"
+            ],
+            "abilities": [
+                "Biotic Rifle",
+                "Sleep Dart",
+                "Biotic Grenade",
+                "Nano Boost"
+            ]
+        },
+        {
+            "name": "Bastion",
+            "role": "DPS",
+            "emotes": "🤖🔫",
+            "quotes": [
+                "Dwee-weeoo!",
+                "Beep boop!",
+                "Doo doo doo doo doo!"
+            ],
+            "abilities": [
+                "Configuration: Recon",
+                "Configuration: Sentry",
+                "Reconfigure",
+                "Self-Repair",
+                "Configuration: Tank"
+            ]
+        },
+        {
+            "name": "D.Va",
+            "role": "Tank",
+            "emotes": "🐰🤖🔫",
+            "quotes": [
+                "I play to win!",
+                "GG!",
+                "Winky face!"
+            ],
+            "abilities": [
+                "Fusion Cannons",
+                "Light Gun",
+                "Boosters",
+                "Defense Matrix",
+                "Micro Missiles",
+                "Self-Destruct",
+                "Call Mech"
+            ]
+        },
+        {
+            "name": "Doomfist",
+            "role": "Tank",
+            "emotes": "👊🏾🧔🏿‍♂️",
+            "quotes": [
+                "Only through conflict do we evolve.",
+                "I'm not a psychopath. I'm a high-functioning psychopath.",
+                "I'm not a miracle worker. Well, not always."
+            ],
+            "abilities": [
+                "Hand Cannon",
+                "Rocket Punch",
+                "Rising Uppercut",
+                "Seismic Slam",
+                "Meteor Strike"
+            ]
+        }
+    ]
+}
